@@ -23,5 +23,5 @@ after_deploy:
   env: "Nodedocker-env"
   bucket_name: "elasticbeanstalk-us-west-2-719156614080"
   on:
-    branch: master
+    branch: main
   skip_cleanup: true
